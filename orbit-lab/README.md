@@ -1,4 +1,4 @@
-# Orbit Lab: N-Body Gravity Simulator in Python
+# Orbit Lab: N-Body Gravity Simulator in Python (v1.0.0)
 
 ![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
